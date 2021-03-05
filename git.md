@@ -37,3 +37,18 @@ Host github.com
 jika muncul pesan berikut maka setup sudah selesai, dan kita sudah bisa remote otomatis dengan account github kita
 
 `Hi deni! You've successfully authenticated, ...`
+
+### git remote 
+
+`git remote -v `  = melihat remote di repository
+
+`git remote add <shortname> <url>` = meremote repository 
+
+`git remote remove <name>`         = menghapus remote repository
+
+`git remote rename <old-name> <new-name>` = mengubah nama remote repository
+
+
+* cheatsheat
+
+![](https://www.git-tower.com/blog/media/pages/posts/git-cheat-sheet/-1223884809-1614838807/git-cheat-sheet-large01.png)
